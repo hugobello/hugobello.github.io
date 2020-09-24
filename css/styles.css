@@ -1,0 +1,69 @@
+.back{
+	width: 100%;
+	background-color: #111;
+	position: fixed;
+	color: white;
+	font-family: 'IBM Plex Mono', monospace;
+	font-weight: 14px;
+	padding-left: 10%;
+}
+
+body{
+	font-family: 'IBM Plex Mono',monospace;
+	color: white;
+	background-color: #111;
+}
+
+a{
+	text-align: left;
+	font-family: inherit;
+	text-decoration: none;
+	color: #111;
+	font-weight: bold;
+	background-color: white;
+	margin-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 40px;
+	padding: 3px 30px 3px 20px;
+	text-align: left;
+	border: none;
+	height: 30px;
+	border-radius: 5px;
+}
+
+div{
+	margin-left: 10%;
+}
+
+h1{
+	margin-bottom: 5px;
+}
+
+li{
+	list-style: none;
+}
+
+button{
+	margin-bottom: 10px;
+	padding-left: 20px;
+	text-align: left;
+	font-family: inherit;
+	border: none;
+	height: 30px;
+	width: 150px;
+	border-radius: 5px;
+}
+
+button:hover, a:hover{
+	background-color: #222;
+	color: white;
+}
+
+.t {
+	font-weight: lighter;
+	margin: 0;
+}
+
+.s{
+	font-weight: 700;
+}
